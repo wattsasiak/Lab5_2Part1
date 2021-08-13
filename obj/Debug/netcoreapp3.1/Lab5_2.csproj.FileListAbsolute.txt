@@ -1,0 +1,13 @@
+C:\Users\awatts4\source\repos\Week5\Lab5_2\bin\Debug\netcoreapp3.1\Lab5_2.exe
+C:\Users\awatts4\source\repos\Week5\Lab5_2\bin\Debug\netcoreapp3.1\Lab5_2.deps.json
+C:\Users\awatts4\source\repos\Week5\Lab5_2\bin\Debug\netcoreapp3.1\Lab5_2.runtimeconfig.json
+C:\Users\awatts4\source\repos\Week5\Lab5_2\bin\Debug\netcoreapp3.1\Lab5_2.runtimeconfig.dev.json
+C:\Users\awatts4\source\repos\Week5\Lab5_2\bin\Debug\netcoreapp3.1\Lab5_2.dll
+C:\Users\awatts4\source\repos\Week5\Lab5_2\bin\Debug\netcoreapp3.1\Lab5_2.pdb
+C:\Users\awatts4\source\repos\Week5\Lab5_2\obj\Debug\netcoreapp3.1\Lab5_2.csproj.AssemblyReference.cache
+C:\Users\awatts4\source\repos\Week5\Lab5_2\obj\Debug\netcoreapp3.1\Lab5_2.AssemblyInfoInputs.cache
+C:\Users\awatts4\source\repos\Week5\Lab5_2\obj\Debug\netcoreapp3.1\Lab5_2.AssemblyInfo.cs
+C:\Users\awatts4\source\repos\Week5\Lab5_2\obj\Debug\netcoreapp3.1\Lab5_2.csproj.CoreCompileInputs.cache
+C:\Users\awatts4\source\repos\Week5\Lab5_2\obj\Debug\netcoreapp3.1\Lab5_2.dll
+C:\Users\awatts4\source\repos\Week5\Lab5_2\obj\Debug\netcoreapp3.1\Lab5_2.pdb
+C:\Users\awatts4\source\repos\Week5\Lab5_2\obj\Debug\netcoreapp3.1\Lab5_2.genruntimeconfig.cache
